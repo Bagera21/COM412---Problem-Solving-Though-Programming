@@ -1,2 +1,2 @@
-# COM412---Problem-Solving-Though-Programming
+# COM412---Problem-Solving-Through-Programming
 Repository use for module
